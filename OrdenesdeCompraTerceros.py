@@ -1,9 +1,10 @@
-git init
-git add .
-git commit -m "Subiendo aplicación Streamlit"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/mi_app_streamlit.git
-git push -u origin main
+
+git init .
+git add  .
+git commit -m "Subiendo aplicación Streamlit" .
+git branch -M main .
+git remote add origin https://github.com/TU_USUARIO/mi_app_streamlit.git .
+git push -u origin main . 
 
 !pip install streamlit pandas
 
